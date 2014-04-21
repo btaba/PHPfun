@@ -1,9 +1,9 @@
 <?php 
 
-//converts integers between 999,999,999 and -999,999,999 to strings
+//converts number words between 999,999,999 and -999,999,999 to digits
 function convert_words_to_nums($words){
         
-    $result = ""; //to store result
+    $result = ""; 
     $max_string_length = 1000;
     $temp_num = 0;
     $final_num = 0;
@@ -177,7 +177,7 @@ function convert_words_to_nums($words){
 
 
 
-// translate each word to its corresponding number
+// literally translate each word to its corresponding number
 function string_translate($string, $number_dictionary){
     
     $string = strtolower($string);
