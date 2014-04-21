@@ -1,4 +1,5 @@
 ##Php stuff
-Fibonacci nums and integer to string converter
-\n Run it in your localhost
+Fibonacci Nums and Integer to String converter
+
+Run it in your localhost
 
