@@ -10,11 +10,11 @@ include 'php/fibonacci.php';
 include 'php/number_translator.php';
 
 $debug = false;
-ini_set("max_execution_time",15); // 15 seconds
+ini_set("max_execution_time",15); 
 
 if(!$debug){
     error_reporting(0); // turn off error reporting
-    register_shutdown_function('shutdown'); // function on shutdown
+    register_shutdown_function('shutdown'); 
 }
 
 function shutdown() 
@@ -37,7 +37,7 @@ function shutdown()
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" type="text/css" href="css/default.css">
-        <title>Schoology Programming Challenge</title>
+        <title>PHP Stuff</title>
     </head>
     <body>
         
