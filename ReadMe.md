@@ -1,3 +1,4 @@
-##Short examples. 
-Fibonacci nums && integer to string converter found in index.php
+##Php stuff
+Fibonacci nums and integer to string converter
+Run it in your localhost
 
