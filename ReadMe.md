@@ -1,5 +1,4 @@
-##Php stuff
-Simple page containing: 
+##Php page containing: 
 
 1. Fibonacci client  (handles function shutdown)
 2. Number (string) to human readable integer converter
