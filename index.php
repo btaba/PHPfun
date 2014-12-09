@@ -1,6 +1,6 @@
 <?php 
 /*
- * @author Baruch Tabanpour
+ * @author btaba
  * February 2, 2014
  * 
  */
